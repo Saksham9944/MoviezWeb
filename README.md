@@ -1,4 +1,5 @@
 # MoviezWeb
+Link: https://moviez-web.netlify.app
 Moviezweb is a platform designed for movie enthusiasts to easily search for and manage their favorite films. Built with React, and the platform allows users to discover movies, view detailed information, and maintain a personalized favorites list.
 
 Key Features:
